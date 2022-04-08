@@ -1,0 +1,16 @@
+[
+    {
+       "pk":1,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5001340155",
+          "name":"Martha Jason",
+          "description":"Expert in Bussness and Administration",
+          "price":53.99,
+          "category":1,
+          "rating":4.6,
+          "image_url":"http://media/mentor-martha.jpg",
+          "image":"mentor-martha.jpg"
+       }
+    }
+]
