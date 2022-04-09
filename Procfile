@@ -1,1 +1,1 @@
-web: gunicorn mentor_marketplace.wsgi:application
+web: python3 manage.py
